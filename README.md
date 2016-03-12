@@ -8,7 +8,9 @@ For office hours and to schedule an appointment, visit the instructor's hompeage
  * Advanced Engineering Mathematics (5th ed. Int'l ed.) by Zill and Wright. ISBN 979-1-4496-8980-3. Jones & Bartlett.
 
 ## Homework
-1. Due: next Friday (3/18) class
+Homework should be handed over to the instructor when you come to class on the dute date.
+(If you are done earlier you are welcome to hand it over before the due date.)
+1. Due: next Friday (3/18) class. 
    * Textbook p. 47 Exercise 20: Solve `dy/dx = (xy + 2y - x - 2) / (xy - 3y + x - 3)` by separation of variables.
 1. TO BE ANNOUCNED
 1. TO BE ANNOUCNED
