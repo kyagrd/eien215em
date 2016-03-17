@@ -47,3 +47,6 @@ Here are some of those freely aviliable software that could be helpful for this 
   * free and open source
   * web based online worksheet/notebook interface
   * can install offiline but quite tricky (in Windows it needs virtualbox ...)
+
+* http://slopefield.nathangrigg.net/
+  * this one is good for drawing direction fields
