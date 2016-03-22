@@ -7,6 +7,9 @@ For office hours and to schedule an appointment, visit the instructor's hompeage
 ## Textbook
  * Advanced Engineering Mathematics (5th ed. Int'l ed.) by Zill and Wright. ISBN 979-1-4496-8980-3. Jones & Bartlett.
 
+## Other materials for references
+ * http://integral-table.com/
+
 ## Homework
 Homework should be handed over to the instructor when you come to class on the dute date.
 (If you are done earlier you are welcome to hand it over before the due date.)
