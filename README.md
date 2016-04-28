@@ -15,8 +15,8 @@ Homework should be handed over to the instructor when you come to class on the d
 (If you are done earlier you are welcome to hand it over before the due date.)
  1. **Due: next Friday (3/18) class.**
   * Textbook p. 47 Exercise 20: Solve `dy/dx = (xy + 2y - x - 2) / (xy - 3y + x - 3)` by separation of variables.
- 1. **Due: next Friday (3/25) class.** )
-  * Textbook p. 99 Exercise 8,  p. 100 Exercise 30-(a). )
+ 1. **Due: next Friday (3/25) class.**
+  * Textbook p. 99 Exercise 8,  p. 100 Exercise 30-(a).
  1. TO BE ANNOUCNED
  1. TO BE ANNOUCNED
 ...
